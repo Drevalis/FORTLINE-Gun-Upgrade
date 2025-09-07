@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Drevalis/FORTLINE-Gun-Upgrade/refs/heads/main/Frontline.lua"))()
